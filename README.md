@@ -4,6 +4,10 @@ Bienvenidos al Proyecto Mercenarios de Código, sientéte libre de explorar.
 
 ## Avisos
 
+**Nuevas piezas**
+
+[#108-02](https://github.com/kuhnidev/mercenarios/blob/master/todo/%23108-02--SelectorTallaColor.md)
+
 > No olvides checar el archivo **[vacantes.md](https://github.com/kuhnidev/mercenarios/blob/master/vacantes.md)** ya que ahí colocaremos puestos interesantes que podrías asumir (todos realizados desde casa).
 
 ### __Introducción__
