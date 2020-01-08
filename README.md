@@ -2,6 +2,10 @@
 
 Bienvenidos al Proyecto Mercenarios de Código, sientéte libre de explorar.
 
+## Avisos
+
+> No olvides checar el archivo **[vacantes.md](https://github.com/kuhnidev/mercenarios/blob/master/vacantes.md)** ya que ahí colocaremos puestos interesantes que podrías asumir (todos realizados desde casa).
+
 ### __Introducción__
 
 El proyecto **Mercenarios de Código** fue desarrollado en el 2019 por **Kuhni Dev** e implementado en enero del 2020. El propósito principal es poder generar cientos de _piezas de código_ a través de cientos de _mercenarios de código_ de tal forma que cada pieza tenga un costo real y cada mercenario pueda monetizar las piezas que construye inmediatamente tras su aprobación y acumular todo el dinero que desee construyendo piezas. Al _mercenario de código_ le llamamos formalmente **Jefe Constructor de Código** o simplemente **constructor**.
