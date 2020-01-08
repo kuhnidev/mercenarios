@@ -4,7 +4,7 @@
 
 ## Diseño
 
-![diseño de la pieza](../all/@108-01.d1.png)
+![diseño de la pieza](@108-01.d1.png)
 
 ## Funcionalidades
 

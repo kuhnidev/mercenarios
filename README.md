@@ -155,7 +155,7 @@ Si tu logras siempre dividir tu código en esos tres tipos de arquitecturas, ser
 
 **Diseño**
 
-![Diseño de pieza de código](ex1.png)
+![Diseño de pieza de código](all/@@ex1.png)
 
 **Funcionalidades**
 
@@ -173,7 +173,7 @@ https://codesandbox.io/s/colorselector108-01-mp9zz
 
 **Resultado**
 
-![Imagen del resultado de la pieza de código](ex2.png)
+![Imagen del resultado de la pieza de código](all/@@ex2.png)
 
 ### __3. Entregar la pieza de código__
 
