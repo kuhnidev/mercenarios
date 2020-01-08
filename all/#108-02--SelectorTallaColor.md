@@ -6,7 +6,7 @@
 
 Se asumirá que se revisó la pieza y cumple las funcionalidades relacionadas.
 
-`#108-01 ColorSelector` https://codesandbox.io/s/colorselector108-01-mp9zz
+[#108-01 ColorSelector](../all/%23108-01--ColorSelector.md) https://codesandbox.io/s/colorselector108-01-mp9zz
 
 ## Diseño
 
