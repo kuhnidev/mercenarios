@@ -4,6 +4,22 @@ Bienvenidos al Proyecto Mercenarios de Código, sientéte libre de explorar.
 
 ## Avisos
 
+**Grupo de Whatsapp**
+
+[https://chat.whatsapp.com/HmXsQ72wqtGJ8iibBQajgf](https://chat.whatsapp.com/HmXsQ72wqtGJ8iibBQajgf)
+
+**Nueva mecánica**
+
+Estamos emocionados de anunciarte que hay una mecánica nueva dentro de _Mercenarios de Código_ llamada **Piezas de Código por Compra Inmediata**. La cuál consiste en comprar tus piezas de código que hayas desarrollado por tu cuenta y cumplan los siguientes requisitos:
+
+* Usar Bootstrap con diseño profesional (simétrico y estilizado).
+* Contener código limpio y componentes funcionales.
+* Poseer pruebas unitarias extensas que demuestren la completa funcionalidad del componente en todos sus casos posibles (usar datos aleatorios y de ser posible ejecuciones automáticas).
+* Tener un costo razonable a su complejidad o no indicar ningún precio y esperar la cotización experta que brindamos.
+* Estar creada en [codesandbox.io](codesandbox.io).
+
+Si tu pieza cumple los puntos no dudes enviar el link a [kuhnidev@gmail.com](mailto:kuhnidev@gmail.com) con el título `Pieza en Venta`. Recuerda que nuestra `Garantía de uso y protección de datos` nos impide usar tu código completo o parcial si no se te ha pagado o no fue aprobada la pieza, por lo que respetaremos tu código. Además siempre estamos abiertos a ayudarte a mejorar por lo que puedes volver a intentar una y otra vez la venta escuchando nuestros comentarios de mejora.
+
 **Nuevas piezas**
 
 [#108-02](https://github.com/kuhnidev/mercenarios/blob/master/todo/%23108-02--SelectorTallaColor.md)
