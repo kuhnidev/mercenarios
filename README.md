@@ -22,7 +22,7 @@ Si tu pieza cumple los puntos no dudes enviar el link a [kuhnidev@gmail.com](mai
 
 **Nuevas piezas**
 
-[#108-02](https://github.com/kuhnidev/mercenarios/blob/master/todo/%23108-02--SelectorTallaColor.md)
+[#113-01](https://github.com/kuhnidev/mercenarios/blob/master/todo/%23113-01.md)
 
 > No olvides checar el archivo **[vacantes.md](https://github.com/kuhnidev/mercenarios/blob/master/vacantes.md)** ya que ahí colocaremos puestos interesantes que podrías asumir (todos realizados desde casa).
 
